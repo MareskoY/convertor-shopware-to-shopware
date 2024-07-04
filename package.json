@@ -1,0 +1,16 @@
+{
+  "name": "shopware-to-shopify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fast-csv/format": "^5.0.0",
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^5.0.1"
+  }
+}
